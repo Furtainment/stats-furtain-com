@@ -1,0 +1,29 @@
+{
+  "domain": "stats.furtain.com",
+  "months": [
+    {
+      "month": "2026-01",
+      "total_requests": 18231,
+      "total_bandwidth_mb": 842.5,
+      "unique_visitors": 3121
+    },
+    {
+      "month": "2026-02",
+      "total_requests": 20112,
+      "total_bandwidth_mb": 931.2,
+      "unique_visitors": 3344
+    },
+    {
+      "month": "2026-03",
+      "total_requests": 22455,
+      "total_bandwidth_mb": 1021.8,
+      "unique_visitors": 3610
+    },
+    {
+      "month": "2026-04",
+      "total_requests": 11892,
+      "total_bandwidth_mb": 512.3,
+      "unique_visitors": 1877
+    }
+  ]
+}
