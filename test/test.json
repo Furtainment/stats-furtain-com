@@ -1,0 +1,32 @@
+{
+  "domain": "stats.furtain.com",
+  "generated_at": "2026-04-10T19:38:00Z",
+  "traffic": {
+    "today": 124,
+    "yesterday": 98,
+    "last_7_days": 842,
+    "last_30_days": 3621,
+    "total": 15892
+  },
+  "visitors": {
+    "unique_today": 87,
+    "unique_yesterday": 74,
+    "unique_7_days": 612,
+    "unique_30_days": 2710
+  },
+  "bandwidth": {
+    "today_mb": 42.7,
+    "last_7_days_mb": 318.4,
+    "last_30_days_mb": 1298.2
+  },
+  "top_paths": [
+    { "path": "/", "views": 312 },
+    { "path": "/about", "views": 88 },
+    { "path": "/api/stats", "views": 57 }
+  ],
+  "status_codes": {
+    "200": 712,
+    "301": 44,
+    "404": 9
+  }
+}
