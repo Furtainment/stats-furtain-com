@@ -4,5 +4,7 @@
   "total_bandwidth_mb": 842.5,
   "unique_visitors": 3121,
   "visits": 385180,
-  "page_views": 416580
+  "page_views": 416580,
+  "requests_total": 3880000,
+  "bandwidth_total_gb": 16.38
 }
